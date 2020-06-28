@@ -35,7 +35,6 @@ bool comp(string a,string b){
     return false;
 }
 
-
 class Solution {
 public:
     vector<string> findItinerary(vector<vector<string>>& t) {
